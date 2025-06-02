@@ -1,4 +1,4 @@
-- Hi, I’m Bruno Vinicius, brazilian, i'm 19y, I am interested and determined, I program and I am a web designer.
+- Hi, I’m Bruno Vinicius, brazilian, i'm 20y, I am interested and determined, I program and I am a web designer.
 - 👀 I’m interested in systems development, back-end and front-end, having experience with Java, HTML and JavaScript.
 - 🌱 I'm currently studying technologist analysis and systems development at SPTech
 - 💞️ I’m looking to collaborate on web design, back-end and front-end development for businesses.
